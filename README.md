@@ -2,7 +2,7 @@
 
 ## Welcome and Purpose
 
-Sam is a mock **C++** application built on the *Mundy* framework, which we use as the template for all of our formal Mundy applications. If all you desire is to use Mundy within your library, simply 
+Sam is a mock **C++** application built on the *Mundy* framework, which we use as the template for all of our formal Mundy applications.
 
 
 It provides a minimal, working setup you can copy and build upon fo
